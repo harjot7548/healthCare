@@ -1,0 +1,7 @@
+Flask~=3.0.3
+
+openai~=1.37.0
+
+whisper~=1.1.10
+
+numpy~=1.26.4
